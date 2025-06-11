@@ -1,0 +1,32 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "What is <br><img width='30%' src='./question/1.png'>",
+    "options": ["2.png", "3.png", "4.png", "5.png"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q2",
+    "question": "What is <br><img width='30%' src='./question/6.png'>",
+    "options": ["7.png", "8.png", "9.png", "10.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "What is <br><img width='30%' src='./question/11.png'>",
+    "options": ["12.png", "13.png", "14.png", "15.png"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "What is an equivalent fraction of 2/3 by multiplying numerator and denominator by 2?",
+    "options": ["16.png", "14.png", "18.png", "19.png"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q5",
+    "question": "What is <br><img width='30%' src='./question/20.png'>",
+    "options": ["21.png", "22.png", "23.png", "24.png"],
+    "correct": 2
+  }
+]
